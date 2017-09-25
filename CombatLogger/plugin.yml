@@ -4,7 +4,7 @@ author: Jack Noordhuis
 main: jacknoordhuis\combatlogger\CombatLogger
 version: 0.0.3
 api:
-  - 2.0.0
   - 3.0.0-ALPHA6
   - 3.0.0-ALPHA7
   - 3.0.0-ALPHA8
+  - 3.0.0
